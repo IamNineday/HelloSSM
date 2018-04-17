@@ -27,7 +27,7 @@
                     <thead>
                     <tr>
                         <th>ID</th>
-                        <th>用户名</th>
+                        <th>账户名</th>
                         <th>密码</th>
                         <th>操作</th>
                     </tr>
